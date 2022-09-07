@@ -8,4 +8,4 @@ date: 2020
 location: "Hong Kong"
 ---
 
-Recommended citation: [Download ppt here](http://ningningzhang-nina.github.io/files/idid.pdf)
+Recommended citation: 
