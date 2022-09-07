@@ -10,5 +10,5 @@ citation: 'Zhang, N., Lin, A. and Shang, P., 2017. "Multiscale symbolic phase tr
 ---
 This paper is about financial time series classification.
 
-[Download paper here](http://ningningzhang-nina.github.io/files/Multiscale Symbolic Phase Transfer Entropy in Financial Time Series Classification.pdf)
+[Download paper here](http://ningningzhang-nina.github.io/files/mspte.pdf)
 
