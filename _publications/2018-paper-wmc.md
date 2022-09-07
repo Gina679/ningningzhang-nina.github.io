@@ -1,7 +1,7 @@
 ---
 title: "Weighted multivariate composite multiscale sample entropy analysis for the complexity of nonlinear times series"
 collection: publications
-permalink: /publication/2020-02-20-paper-WRR
+permalink: /publication/2018-paper-wmc
 excerpt: 'This paper is about the complexity of nonlinear times series.'
 date: 2018-10-15
 venue: 'Physica A: Statistical Mechanics and its Applications'
