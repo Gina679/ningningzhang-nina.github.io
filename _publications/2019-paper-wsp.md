@@ -1,7 +1,7 @@
 ---
 title: "Distinguishing stock indices and detecting economic crises based on weighted symbolic permutation entropy"
 collection: publications
-permalink: /publication/2020-06-19-paper-AFR
+permalink: /publication/2019-paper-wsp
 excerpt: 'This paper is about the study of economic crises.'
 date: 2019-05-10
 venue: 'Fluctuation and Noise Letters'
