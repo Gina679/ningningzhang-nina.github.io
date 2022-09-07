@@ -12,16 +12,18 @@ PROFILE:
 
 
 ## Selected Journal Publications
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. doi:https://doi.org/10.1016/J.JHYDROL.2021.126816
+Zhang, N., Lin, A. and Yang, P., 2020. Detrended moving average partial cross-correlation analysis on financial time series. Physica A: statistical mechanics and its applications, 542, p.122960. [link](https://doi.org/10.1016/j.physa.2019.122960)
 
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. doi:https://doi.org/10.1016/j.envsoft.2020.104907
+Zhang, N., Sun, Y., Zhang, Y., Yang, P., Lin, A. and Shang, P., 2019. Distinguishing stock indices and detecting economic crises based on weighted symbolic permutation entropy. Fluctuation and Noise Letters, 18(04), p.1950026. [link](https://doi.org/10.1142/S0219477519500263)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. doi:https://doi.org/10.1029/2019WR026962
+Zhang, N., Lin, A., Ma, H., Shang, P. and Yang, P., 2018. Weighted multivariate composite multiscale sample entropy analysis for the complexity of nonlinear times series. Physica A: Statistical Mechanics and its Applications, 508, pp.595-607. [link](https://doi.org/10.1016/j.physa.2018.05.085)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. doi:https://doi.org/10.1016/j.advwatres.2019.103430
+Zhang, N., Lin, A. and Shang, P., 2017. Symbolic phase transfer entropy method and its application. Communications in Nonlinear Science and Numerical Simulation, 51, pp.78-88. [link](https://doi.org/10.1016/j.cnsns.2017.03.011)
 
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. doi:https://doi.org/10.1007/s00704-018-2617-z
+Zhang, N., Lin, A. and Shang, P., 2017. Multidimensional k-nearest neighbor model based on EEMD for financial time series forecasting. Physica A: Statistical Mechanics and its Applications, 477, pp.161-173. [link](https://doi.org/10.1016/j.physa.2017.02.072)
+
+Zhang, N., Lin, A. and Shang, P., 2017. Multiscale symbolic phase transfer entropy in financial time series classification. Fluctuation and Noise Letters, 16(02), p.1750019. [link](https://www.worldscientific.com/doi/abs/10.1142/S0219477517500195))
 
 ## For more information
-More info about me can be found in [CV](https://zejiang-unsw.github.io/cv/).
+More info about me can be found in [CV](https://ningningzhang-nina.github.io/cv/).
 
