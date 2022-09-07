@@ -1,6 +1,6 @@
 ---
 title: "Effects Evaluation of Regional Joint Environmental Policy"
-excerpt: ""2+26" Cities <br/><img src='/images/bht.png'>"
+excerpt: "2+26 Cities <br/><img src='/images/bht.png'>"
 collection: portfolio
 ---
 
