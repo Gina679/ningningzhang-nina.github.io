@@ -1,11 +1,11 @@
 ---
-title: "How effective is the regional joint environmental policy in China? Evidence from inverse difference-in-differences"
+title: "Urban Surface Characteristics Study Using Time-area Function Model: A Case Study in Saudi Arabia"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-talk-idid
-venue: "Online"
-date: 2020
-location: "Hong Kong"
+venue: "Songdo Convensia Convention Center"
+date: 2016-08-24
+location: "Incheon, South Korea"
 ---
 
-Recommended citation: 
+Recommended citation: Jiang, Z., Molkenthin, F., & Sieker, H. (2016). Urban Surface Characteristics Study Using Time-area Function Model: A Case Study in Saudi Arabia. 12th International Conference on Hydroinformatics [HIC 2016](https://iwa-network.org/events/12th-international-conference-on-hydroinformatics/), Poster, Songdo Convensia Convention Center, 21-26 August 2016, FP-10.
