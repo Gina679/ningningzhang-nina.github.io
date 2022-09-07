@@ -18,10 +18,10 @@ Name2 Name2:
   google_plus : "Name"
 
 Ze Jiang:
-  name             : "Ze Jiang"
+  name             : "Zhang Ningning"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @UNSW, expert in statistical hydrology"
-  location         : "Sydney, Australia"
+  bio              : "Ph.D. Candidate @HKU, expert in statistical modeling"
+  location         : "Hong Kong"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
