@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ze Jiang"
+title: "Zhang Ningning"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,39 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://www.unsw.edu.au/staff/ze-jiang). 
+This is Zhang Ningning's personal homepage. Please also refer to my [homepage@UNSW](https://www.unsw.edu.au/staff/ze-jiang). 
 
 ## A short introduction
-I am a Postdoctoral Research Fellow in the School of Civil and Environmental Engineering's [Water Research Centre@UNSW](https://www.wrc.unsw.edu.au/) working in the field of hydro-climatology. I received my Ph.D. in Water Resource Engineering from UNSW. During my Ph.D., I developed a new method, namely Wavelet System Prediction (WASP), which is able to predict sustained hydro-climatological changes. I received my B.Eng. in Environmental Engineering from Hohai University, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute of National University of Singapore for two years.
+I am a Ph.D.
 
 <b>Research Interests:</b>
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
+* Causal inference
+* Time series analysis
 
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+
 
 ## Selected Journal Publications
-Jiang, Z., Choudhury D., & Sharma, A. (2022). Spectrally transformed CMIP6 decadal outputs to aid interannual-to-decadal precipitation prediction over Australia. *In preparation for submission to Water Resources Research*. 
+Zhang, N., Lin, A. and Yang, P., 2020. Detrended moving average partial cross-correlation analysis on financial time series. Physica A: statistical mechanics and its applications, 542, p.122960. [link](https://doi.org/10.1016/j.physa.2019.122960)
 
-Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *In preparation for submission to Monthly Weather Review*. 
+Zhang, N., Sun, Y., Zhang, Y., Yang, P., Lin, A. and Shang, P., 2019. Distinguishing stock indices and detecting economic crises based on weighted symbolic permutation entropy. Fluctuation and Noise Letters, 18(04), p.1950026. [link](https://doi.org/10.1142/S0219477519500263)
 
-Jiang, Z., Johnson, F., & Sharma, A. (2022). A new method for combining precipitation and evapotranspiration for characterising future drought impacts. *submitted to Water Resources Research, under review*. 
+Zhang, N., Lin, A., Ma, H., Shang, P. and Yang, P., 2018. Weighted multivariate composite multiscale sample entropy analysis for the complexity of nonlinear times series. Physica A: Statistical Mechanics and its Applications, 508, pp.595-607. [link](https://doi.org/10.1016/j.physa.2018.05.085)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
+Zhang, N., Lin, A. and Shang, P., 2017. Symbolic phase transfer entropy method and its application. Communications in Nonlinear Science and Numerical Simulation, 51, pp.78-88. [link](https://doi.org/10.1016/j.cnsns.2017.03.011)
 
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
+Zhang, N., Lin, A. and Shang, P., 2017. Multidimensional k-nearest neighbor model based on EEMD for financial time series forecasting. Physica A: Statistical Mechanics and its Applications, 477, pp.161-173. [link](https://doi.org/10.1016/j.physa.2017.02.072)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. [link](https://doi.org/10.1029/2019WR026962)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
-
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
+Zhang, N., Lin, A. and Shang, P., 2017. Multiscale symbolic phase transfer entropy in financial time series classification. Fluctuation and Noise Letters, 16(02), p.1750019. [link](https://www.worldscientific.com/doi/abs/10.1142/S0219477517500195))
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf).
+More info about Zhang Ningning can be found in [CV](https://ningningzhang-nina.github.io/cv/) or [downloaded CV](http://ningningzhang-nina.github.io/files/CV_CN.pdf).
