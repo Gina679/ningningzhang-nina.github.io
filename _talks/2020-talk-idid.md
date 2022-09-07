@@ -8,4 +8,4 @@ date: 2016-08-24
 location: "HKU"
 ---
 
-Recommended citation: 
+Recommended citation: [Download ppt here](http://ningningzhang-nina.github.io/files/idid.pdf)
