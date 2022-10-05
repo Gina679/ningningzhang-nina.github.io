@@ -20,8 +20,6 @@ Currently, I am a PhD student in the Univerity of Hong Kong. Before studying in 
 * Causal ML
 * Spatial statistics
 
-<b>Research Highlights:</b>
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
 
 
 ## Selected Journal Publications
