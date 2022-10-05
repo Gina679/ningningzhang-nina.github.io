@@ -8,20 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-This is Zhang Ningning's personal homepage. Please also refer to my [homepage@UNSW](https://www.unsw.edu.au/staff/ze-jiang). 
+This is Zhang Ningning's personal homepage. Please also refer to my [homepage](https://www.ningningzhang-nina.io). 
 
 ## A short introduction
-I am a Ph.D.
+Currently, I am a PhD student in the Univerity of Hong Kong. Before studying in HKU, I finished my bachelor and master education in Beijing Jiaotong Univeristy. 
 
 <b>Research Interests:</b>
+* Financial time series analysis
 * Causal inference
-* Time series analysis
+* Machine learning
+* Causal ML
+* Spatial statistics
 
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
 
 
 ## Selected Journal Publications
+Zhang, N. and Zhu, K., 2022. Quantiled conditional variance, skewness, and kurtosis by Cornish-Fisher expansion. Working paper.
+
+Zhang, N., Yu, H. and Zhu, K., 2021. How effective is the regional joint environmental policy in China? Evidence from inverse difference-in-differences. Working paper.
+
 Zhang, N., Lin, A. and Yang, P., 2020. Detrended moving average partial cross-correlation analysis on financial time series. Physica A: statistical mechanics and its applications, 542, p.122960. [link](https://doi.org/10.1016/j.physa.2019.122960)
 
 Zhang, N., Sun, Y., Zhang, Y., Yang, P., Lin, A. and Shang, P., 2019. Distinguishing stock indices and detecting economic crises based on weighted symbolic permutation entropy. Fluctuation and Noise Letters, 18(04), p.1950026. [link](https://doi.org/10.1142/S0219477519500263)
