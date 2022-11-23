@@ -13,9 +13,9 @@ PROFILE:
 
 ## Selected Journal Publications
 
-1. Zhang, N. and Zhu, K., 2022. A new family of Laguerred exponential distributions and its applications. Working paper.
+- 1. Zhang, N. and Zhu, K., 2022. A new family of Laguerred exponential distributions and its applications. Working paper.
 
-2. Zhu, Z., Zhang, N. and Zhu, K., 2022. High Dimensional Quantiled Conditional Moments with Hypergraph. Working paper.
+- 2. Zhu, Z., Zhang, N. and Zhu, K., 2022. High Dimensional Quantiled Conditional Moments with Hypergraph. Working paper.
 
 3. Zhang, N. and Zhu, K., 2022. Quantiled conditional variance, skewness, and kurtosis by Cornish-Fisher expansion. Working paper.
 
