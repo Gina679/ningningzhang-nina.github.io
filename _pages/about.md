@@ -44,4 +44,4 @@ Currently, I am a PhD student in the Univerity of Hong Kong. Before studying in 
 10. Zhang, N., Lin, A. and Shang, P., 2017. Multiscale symbolic phase transfer entropy in financial time series classification. Fluctuation and Noise Letters, 16(02), p.1750019. [link](https://www.worldscientific.com/doi/abs/10.1142/S0219477517500195))
 
 ## For more information
-More info about Zhang Ningning can be found in [CV](https://ningningzhang-nina.github.io/cv/) or [downloaded CV](http://ningningzhang-nina.github.io/files/CV_CN.pdf).
+More info about Zhang Ningning can be found in [CV](https://ningningzhang-nina.github.io/cv/) or [downloaded CV](http://ningningzhang-nina.github.io/files/CV_in_chinese.pdf).
