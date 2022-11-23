@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://ningningzhang-nina.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf),[Chi](https://ningningzhang-nina.github.io/files/CV_Ze JIANG_UNSW_Chi.pdf))
+Download CV ([Eng](http://ningningzhang-nina.github.io/files/CV_in_chinese.pdf),[Chi](https://ningningzhang-nina.github.io/files/Simple_CV.pdf))
 ======
 
 Education
