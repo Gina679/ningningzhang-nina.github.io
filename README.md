@@ -5,7 +5,7 @@ This is Zhang Ningning's personal [homepage](https://ningningzhang-nina.github.i
 I am an statistical researcher. My research focuses on time series analysis, as well as causal inference. I mainly use statistical tools to carry out my research works.
 
 PROFILE:
-* Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
+* Highly self-motivated researcher. 
 * Strong interpersonal skills with a good sense of teamwork.
 * Programming Skills: R, Matlab, and Python in both Unix and Windows environments.
 
