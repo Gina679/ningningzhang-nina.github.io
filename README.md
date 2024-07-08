@@ -2,13 +2,13 @@
 This is Zhang Ningning's personal [homepage](https://ningningzhang-nina.github.io/).
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
+I am an statistical researcher. My research focuses on time series analysis, as well as causal inference. I mainly use statistical tools to carry out my research works.
 
 PROFILE:
 * Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
 * Strong interpersonal skills with a good sense of teamwork.
-* Programming Skills: R, C/C++, and Python in both Unix and Windows environments.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+* Programming Skills: R, Matlab, and Python in both Unix and Windows environments.
+
 
 
 ## Selected Journal Publications
