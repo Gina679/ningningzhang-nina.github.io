@@ -15,7 +15,7 @@ PROFILE:
 
 1. Zhang, N. and Zhu, K., 2022. A new family of Laguerred exponential distributions and its applications. Working paper.
 
-2. Zhu, Z., Zhang, N. and Zhu, K., 2022. High Dimensional Quantiled Conditional Moments with Hypergraph. Working paper.
+2. Zhu, Z., Zhang, N. and Zhu, K., 2024. Big portfolio selection by graph-based conditional moments method. Journal of Empirical Finance, p.101533.[link](https://authors.elsevier.com/c/1jd0y3IvUnkNwn)
 
 3. Zhang, N. and Zhu, K., 2022. Quantiled conditional variance, skewness, and kurtosis by Cornish-Fisher expansion. Working paper.
 
