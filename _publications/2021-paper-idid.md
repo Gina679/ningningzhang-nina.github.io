@@ -10,4 +10,4 @@ citation: 'Zhang, N. and Zhu, K., 2021. How effective is the regional joint envi
 ---
 This paper is a new policy evaluation method.
 
-[Download paper here]
+[Download paper here](https://link.springer.com/article/10.1007/s13253-024-00655-5#citeas)
