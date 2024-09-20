@@ -25,11 +25,11 @@ Currently, I am a PhD student in the Univerity of Hong Kong. Before studying in 
 ## Selected Journal Publications
 1. Zhang, N. and Zhu, K., 2022. A new family of Laguerred exponential distributions and its applications. Working paper.
 
-2. Zhu, Z., Zhang, N. and Zhu, K., 2022. High Dimensional Quantiled Conditional Moments with Hypergraph. Working paper.
+2. Zhu, Z., Zhang, N. and Zhu, K., 2022. Big portfolio selection by graph-based conditional moments method. Journal of Empirical Finance.[link](https://authors.elsevier.com/c/1jd0y3IvUnkNwn)
 
 3. Zhang, N. and Zhu, K., 2022. Quantiled conditional variance, skewness, and kurtosis by Cornish-Fisher expansion. Working paper.
 
-4. Zhang, N. and Zhu, K., 2021. How effective is the regional joint environmental policy in China? Evidence from inverse difference-in-differences. Working paper. [link](https://www.researchgate.net/publication/349718166_How_effective_is_the_regional_joint_environmental_policy_in_China_Evidence_from_inverse_difference-in-differences)
+4. Zhang, N. and Zhu, K., 2021. How effective is the regional joint environmental policy in China? Evidence from inverse difference-in-differences. Journal of Agricultural, Biological and Environmental Statistics. [link](https://link.springer.com/article/10.1007/s13253-024-00655-5#citeas)
 
 5. Zhang, N., Lin, A. and Yang, P., 2020. Detrended moving average partial cross-correlation analysis on financial time series. Physica A: statistical mechanics and its applications, 542, p.122960. [link](https://doi.org/10.1016/j.physa.2019.122960)
 
