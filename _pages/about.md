@@ -11,7 +11,7 @@ redirect_from:
 This is Zhang Ningning's personal homepage. Please also refer to my [homepage](ningningzhang-nina.github.io/). 
 
 ## A short introduction
-Currently, I am a PhD student in the Univerity of Hong Kong. Before studying in HKU, I finished my bachelor and master education in Beijing Jiaotong Univeristy. 
+I graduated from the University of Hong Kong with a PhD degree in December 2024. Before studying in HKU, I finished my bachelor and master education in Beijing Jiaotong Univeristy. 
 
 <b>Research Interests:</b>
 * Financial time series analysis
